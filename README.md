@@ -3,4 +3,4 @@
 Venomous is based on the [one-dark theme](https://github.com/derailed/k9s/blob/master/skins/one-dark.yaml).
 
 # Using this skin
-If you don't know how to use this skin: [rtfm](https://k9scli.io/topics/skins/).
+If you don't know how to use a specific skin on k9s: [rtfm](https://k9scli.io/topics/skins/).
